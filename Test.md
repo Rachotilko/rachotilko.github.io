@@ -1,4 +1,4 @@
-# Test header {#ahaaa}
+# Test header
 
 a<br/>
 a<br/>
@@ -32,4 +32,4 @@ a<br/>
 a<br/>
 a<br/>
 a<br/>
-[Odkaz](#ahaaa)
+[Odkaz](#user-content-test-header)
